@@ -109,8 +109,6 @@ Book chapter in *Data Analytics for Smart Robotics and Its Applications*, Spring
 
 ## 🤝 Let's Connect
 
-I'm actively looking for an entry-level **Software Developer** role. If you have an opportunity or just want to talk tech, reach out:
-
 <a href="mailto:vatsrajkashyap2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-vatsrajkashyap2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"></a>
 <a href="https://www.linkedin.com/in/vats-raj-kashyap-80696a250"><img src="https://img.shields.io/badge/LINKEDIN-Vats%20Raj%20Kashyap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555555" alt="LinkedIn"></a>
 <a href="https://github.com/vatsrajkashyap8287"><img src="https://img.shields.io/badge/GITHUB-vatsrajkashyap8287-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"></a>
