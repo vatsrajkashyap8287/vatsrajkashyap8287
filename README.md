@@ -2,10 +2,10 @@
 
 ### Full-Stack Developer | Node.js • React • MongoDB • Redis | Building scalable, real-time and AI-powered web apps
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/vats-raj-kashyap-80696a250"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/vatsrajkashyap8287"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:vatsrajkashyap2003@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://leetcode.com/u/vatsraj966/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
 ---
 
@@ -109,6 +109,6 @@ Book chapter in *Data Analytics for Smart Robotics and Its Applications*, Spring
 
 ## 🤝 Let's Connect
 
-I'm actively looking for an entry-level **Software Developer** role. If you have an opportunity or just want to talk tech, reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) or at **vatsrajkashyap2003@gmail.com**.
+I'm actively looking for an entry-level **Software Developer** role. If you have an opportunity or just want to talk tech, reach out on [LinkedIn](https://www.linkedin.com/in/vats-raj-kashyap-80696a250) or at **vatsrajkashyap2003@gmail.com**.
 
 ⭐ If you like any of my projects, a star on the repo means a lot!
